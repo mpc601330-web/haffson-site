@@ -1,0 +1,4 @@
+baseURL = "https://TU-SITIO.netlify.app/"
+languageCode = "en-us"
+title = "Haffson"
+theme = "ananke"
