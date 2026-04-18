@@ -21,7 +21,16 @@
         <a class="site-brand" href="/">{{ .Site.Params.site_name | default .Site.Title }}</a>
         <nav class="site-nav" aria-label="Primary">
           <a href="/">Home</a>
-          <a href="/invoice-follow-up-automation/">Problems</a>
+          <div class="dropdown">
+            <button class="dropbtn" type="button">Problems &#9662;</button>
+            <div class="dropdown-content">
+              {{ range .Site.RegularPages }}
+                {{ if and (ne .File.BaseFileName "_index") (ne .File.BaseFileName "thanks") }}
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
         </nav>
       </div>
     </header>
@@ -36,4 +45,3 @@
     </div>
   </body>
 </html>
-
