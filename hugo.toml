@@ -1,0 +1,18 @@
+baseURL = "https://haffson.netlify.app/"
+languageCode = "en-us"
+title = "HAFFSON"
+
+[params]
+  site_name = "HAFFSON"
+  site_tagline = "Find real problems. Build what people pay for."
+  product_name = "InvoicePing"
+  product_tagline = "Automatically follow up unpaid invoices via email and stop the spreadsheet chasing."
+  cta_text = "Join the Waitlist"
+  contact_email = "founder@example.com"
+
+[taxonomies]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

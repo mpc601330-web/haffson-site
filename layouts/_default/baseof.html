@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="cDqLbhO6nd1wXjrnYnUJrXpI-vv3LB67BTZ7I7F6Ers" />
+    <title>{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Params.description | default .Site.Params.site_tagline }}">
+    {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ .Params.description | default .Site.Params.site_tagline }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="/css/site.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="site-brand" href="/">{{ .Site.Params.site_name | default .Site.Title }}</a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/">Home</a>
+          <a href="/invoice-follow-up-automation/">Problems</a>
+        </nav>
+      </div>
+    </header>
+    {{ block "main" . }}{{ end }}
+    <div hidden aria-hidden="true">
+      <form name="waitlist" method="POST" action="/thanks/" netlify data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="waitlist">
+        <input type="text" name="bot-field">
+        <input type="email" name="email">
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
+

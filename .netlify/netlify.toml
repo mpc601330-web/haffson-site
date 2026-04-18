@@ -1,0 +1,29 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\User\\OneDrive - AULA CAMPUS\\Documentos\\New project\\invoice-follow-up-hugo\\public"
+publishOrigin = "config"
+commandOrigin = "config"
+base = "C:\\Users\\User\\OneDrive - AULA CAMPUS\\Documentos\\New project\\invoice-follow-up-hugo"
+command = "hugo --gc --minify"
+
+[build.environment]
+HUGO_VERSION = "0.147.8"
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
