@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ if hasPrefix .RelPermalink "/es/" }}es{{ else }}en{{ end }}">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ .Params.description | default .Site.Params.site_tagline }}">

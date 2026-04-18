@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Stop copying data between systems manually"
 description = "Manual data reconciliation forces teams to copy and paste records between tools, creating errors and wasted time. Automate the workflow."
 slug = "data-reconciliation-copy-paste"
@@ -122,3 +122,4 @@ And the next.
 You may also be dealing with:
 
 [Automate invoice follow-ups](/invoice-follow-up-automation/)
+

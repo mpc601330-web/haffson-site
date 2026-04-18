@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Thanks"
 description = "Thanks for joining the waitlist."
 slug = "thanks"
@@ -9,3 +9,4 @@ slug = "thanks"
 We'll reach out when early access opens.
 
 [Back to the product page](/invoice-follow-up-automation/)
+

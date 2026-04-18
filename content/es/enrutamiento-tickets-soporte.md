@@ -115,3 +115,4 @@ Si no cambias el proceso, maÃ±ana volverÃ¡s a clasificar lo mismo.
 
 [Sincronizar la conciliaciÃ³n financiera](/es/sincronizacion-reconciliacion-financiera/)
 
+

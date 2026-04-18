@@ -1,6 +1,11 @@
-baseURL = "https://haffson.netlify.app/"
+baseURL = "https://haffson-site.pages.dev/"
 languageCode = "en-us"
 title = "HAFFSON"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
   site_name = "HAFFSON"

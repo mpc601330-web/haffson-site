@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Support Ticket Routing"
 description = "Stop routing support tickets manually. Automate support ticket routing and reduce delays every day."
 slug = "support-ticket-routing"
@@ -103,3 +103,4 @@ If manual operations are still creating delays, you may also be dealing with:
 [Automate invoice follow-ups](/invoice-follow-up-automation/)
 
 [Sync finance reconciliation](/finance-reconciliation-sync/)
+

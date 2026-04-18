@@ -122,3 +122,4 @@ Si lo dejas igual, el prÃ³ximo cierre traerÃ¡ los mismos fallos.
 
 [Sincronizar la conciliaciÃ³n financiera sin trabajo manual](/es/sincronizacion-reconciliacion-financiera/)
 
+
