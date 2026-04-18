@@ -23,7 +23,7 @@ It's a workaround.
 
 If you're still copying data between tools, fix it now.
 
-[ Automate this workflow ]
+<a href="/thanks/" class="cta-button">Automate this workflow</a>
 
 ---
 
@@ -114,7 +114,7 @@ And the next.
 
 ---
 
-[ Automate this workflow ]
+<a href="/thanks/" class="cta-button">Automate this workflow</a>
 
 ---
 
