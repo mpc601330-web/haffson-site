@@ -1,6 +1,6 @@
 ﻿+++
 title = "Seguimiento de facturas para clientes"
-description = "Sigues persiguiendo facturas por email y hoja de cÃ¡lculo cada semana? Automatiza el seguimiento y deja de perder tiempo en cobros manuales."
+description = "Sigues persiguiendo facturas por email y hoja de cálculo cada semana? Automatiza el seguimiento y deja de perder tiempo en cobros manuales."
 slug = "seguimiento-facturas-clientes"
 url = "/es/seguimiento-facturas-clientes/"
 keywords = ["seguimiento facturas clientes", "automatizar recordatorios de pago", "cobros manuales"]
@@ -8,13 +8,13 @@ keywords = ["seguimiento facturas clientes", "automatizar recordatorios de pago"
 
 # Sigues persiguiendo facturas cada semana como si fuera parte del trabajo.
 
-No deberÃ­a serlo.
+No debería serlo.
 
 Revisas vencimientos.
 
-Buscas quiÃ©n no ha pagado.
+Buscas quién no ha pagado.
 
-EnvÃ­as otro correo.
+Envías otro correo.
 
 Actualizas una hoja.
 
@@ -22,7 +22,7 @@ Y vuelves a empezar.
 
 ---
 
-Si todavÃ­a haces esto a mano, el problema ya no es la factura.
+Si todavía haces esto a mano, el problema ya no es la factura.
 
 Es el proceso.
 
@@ -30,15 +30,15 @@ Es el proceso.
 
 ---
 
-## AsÃ­ se ve hoy
+## Así se ve hoy
 
 Abres el inbox.
 
 Cruzas importes.
 
-Compruebas quiÃ©n respondiÃ³.
+Compruebas quién respondió.
 
-ReenvÃ­as recordatorios.
+Reenvías recordatorios.
 
 Se te escapa una factura.
 
@@ -50,25 +50,25 @@ Y el caos vuelve.
 
 ## Lo caro no es solo el tiempo
 
-Cada seguimiento manual mete presiÃ³n en tu semana.
+Cada seguimiento manual mete presión en tu semana.
 
 Pierdes foco.
 
 Se acumulan retrasos.
 
-Se enfrÃ­an respuestas.
+Se enfrían respuestas.
 
-Y cobras mÃ¡s tarde de lo necesario.
+Y cobras más tarde de lo necesario.
 
 ---
 
-## Por quÃ© sigue pasando
+## Por qué sigue pasando
 
 Tu herramienta contable guarda datos.
 
 Pero no hace el trabajo pesado.
 
-Entonces tÃº haces de sistema.
+Entonces tú haces de sistema.
 
 Revisas.
 
@@ -80,19 +80,19 @@ Repites.
 
 ---
 
-## Hay una forma mÃ¡s limpia
+## Hay una forma más limpia
 
 No necesitas cambiar de software.
 
 Necesitas quitar la parte repetitiva.
 
-Seguimientos automÃ¡ticos.
+Seguimientos automáticos.
 
 Menos errores.
 
 Menos olvidos.
 
-MÃ¡s tiempo para lo que sÃ­ mueve caja.
+Más tiempo para lo que sí mueve caja.
 
 ---
 
@@ -115,13 +115,13 @@ Cada semana.
 
 ---
 
-Si nada cambia, la prÃ³xima semana serÃ¡ igual.
+Si nada cambia, la próxima semana será igual.
 
-MÃ¡s recordatorios.
+Más recordatorios.
 
-MÃ¡s seguimiento manual.
+Más seguimiento manual.
 
-MÃ¡s desgaste.
+Más desgaste.
 
 ---
 
@@ -133,8 +133,8 @@ MÃ¡s desgaste.
 
 [Sigues copiando y pegando datos para reconciliar?](/es/copia-pega-reconciliacion-datos/)
 
-[La conciliaciÃ³n financiera entre sistemas sigue siendo manual?](/es/sincronizacion-reconciliacion-financiera/)
+[La conciliación financiera entre sistemas sigue siendo manual?](/es/sincronizacion-reconciliacion-financiera/)
 
-[Tu equipo aÃºn enruta tickets a mano?](/es/enrutamiento-tickets-soporte/)
+[Tu equipo aún enruta tickets a mano?](/es/enrutamiento-tickets-soporte/)
 
 

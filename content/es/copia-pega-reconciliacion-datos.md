@@ -1,6 +1,6 @@
 ﻿+++
-title = "Copia y pega en la reconciliaciÃ³n de datos"
-description = "TodavÃ­a copias datos entre herramientas para cuadrar registros? Elimina el copia y pega manual y reduce errores antes de que escalen."
+title = "Copia y pega en la reconciliación de datos"
+description = "Todavía copias datos entre herramientas para cuadrar registros? Elimina el copia y pega manual y reduce errores antes de que escalen."
 slug = "copia-pega-reconciliacion-datos"
 url = "/es/copia-pega-reconciliacion-datos/"
 keywords = ["copia pega reconciliacion datos", "automatizar conciliacion de datos", "errores por copiar y pegar"]
@@ -8,7 +8,7 @@ keywords = ["copia pega reconciliacion datos", "automatizar conciliacion de dato
 
 # Sigues copiando datos entre sistemas para cuadrarlos a mano?
 
-Eso no es una operaciÃ³n estable.
+Eso no es una operación estable.
 
 Es un parche.
 
@@ -22,13 +22,13 @@ Cruzas dedos.
 
 ---
 
-Si tu reconciliaciÃ³n depende del copia y pega, ya estÃ¡s perdiendo demasiado.
+Si tu reconciliación depende del copia y pega, ya estás perdiendo demasiado.
 
 <a href="#waitlist" class="cta-button">Quiero automatizar este flujo</a>
 
 ---
 
-## Lo que pasa en la prÃ¡ctica
+## Lo que pasa en la práctica
 
 Sacas datos de una herramienta.
 
@@ -38,22 +38,22 @@ Mueves registros uno por uno.
 
 Algo no coincide.
 
-Vuelves atrÃ¡s.
+Vuelves atrás.
 
 Arreglas manualmente.
 
-Y la prÃ³xima vez repites la escena.
+Y la próxima vez repites la escena.
 
 ---
 
-## El problema no es pequeÃ±o
+## El problema no es pequeño
 
 El copia y pega manual provoca:
 
 * errores en reportes
 * retrasos al decidir
 * trabajo duplicado
-* revisiÃ³n constante
+* revisión constante
 
 Puede parecer soportable.
 
@@ -61,9 +61,9 @@ Hasta que ya no lo es.
 
 ---
 
-## Por quÃ© se alarga tanto
+## Por qué se alarga tanto
 
-Tus herramientas no estÃ¡n sincronizadas.
+Tus herramientas no están sincronizadas.
 
 Entonces las personas hacen de puente.
 
@@ -81,19 +81,19 @@ Repiten.
 
 No hace falta tirar tu stack.
 
-Hace falta quitar el paso frÃ¡gil.
+Hace falta quitar el paso frágil.
 
-Movimiento automÃ¡tico de datos.
+Movimiento automático de datos.
 
 Registros coherentes.
 
-Menos revisiÃ³n manual.
+Menos revisión manual.
 
 ---
 
 ## Viene de equipos reales
 
-Esto no nace de una traducciÃ³n bonita.
+Esto no nace de una traducción bonita.
 
 Nace de equipos atascados cada semana arreglando conciliaciones rotas.
 
@@ -108,18 +108,18 @@ Nace de equipos atascados cada semana arreglando conciliaciones rotas.
 
 ---
 
-Si lo dejas igual, el prÃ³ximo cierre traerÃ¡ los mismos fallos.
+Si lo dejas igual, el próximo cierre traerá los mismos fallos.
 
 ---
 
-<a href="#waitlist" class="cta-button">Automatizar la reconciliaciÃ³n</a>
+<a href="#waitlist" class="cta-button">Automatizar la reconciliación</a>
 
 ---
 
-## TambiÃ©n puede interesarte
+## También puede interesarte
 
 [Dejar de perseguir facturas manualmente](/es/seguimiento-facturas-clientes/)
 
-[Sincronizar la conciliaciÃ³n financiera sin trabajo manual](/es/sincronizacion-reconciliacion-financiera/)
+[Sincronizar la conciliación financiera sin trabajo manual](/es/sincronizacion-reconciliacion-financiera/)
 
 

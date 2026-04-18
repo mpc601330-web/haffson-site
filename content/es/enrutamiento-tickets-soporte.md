@@ -1,6 +1,6 @@
 ﻿+++
 title = "Enrutamiento de tickets de soporte"
-description = "Tu equipo aÃºn reparte tickets manualmente? Automatiza el enrutamiento y reduce retrasos, rebotes y errores de asignaciÃ³n."
+description = "Tu equipo aún reparte tickets manualmente? Automatiza el enrutamiento y reduce retrasos, rebotes y errores de asignación."
 slug = "enrutamiento-tickets-soporte"
 url = "/es/enrutamiento-tickets-soporte/"
 keywords = ["enrutamiento tickets soporte", "automatizar triage soporte", "asignacion manual tickets"]
@@ -8,11 +8,11 @@ keywords = ["enrutamiento tickets soporte", "automatizar triage soporte", "asign
 
 # Tu equipo sigue repartiendo tickets uno por uno?
 
-Eso desgasta mÃ¡s de lo que parece.
+Eso desgasta más de lo que parece.
 
 Lees cada solicitud.
 
-Decides a quiÃ©n va.
+Decides a quién va.
 
 La reasignas.
 
@@ -22,13 +22,13 @@ Y repites.
 
 ---
 
-Si el soporte aÃºn depende de triage manual, ya hay un cuello de botella claro.
+Si el soporte aún depende de triage manual, ya hay un cuello de botella claro.
 
 <a class="button button-primary" href="#waitlist">Quiero automatizar el enrutamiento</a>
 
 ---
 
-## AsÃ­ se pierde tiempo
+## Así se pierde tiempo
 
 Abres la cola.
 
@@ -38,7 +38,7 @@ Intentas entender prioridad y destino.
 
 Lo mandas a mano.
 
-Se desvÃ­a mal.
+Se desvía mal.
 
 Alguien lo devuelve.
 
@@ -48,9 +48,9 @@ Y el cliente espera.
 
 ## Lo que termina pasando
 
-MÃ¡s retrasos.
+Más retrasos.
 
-MÃ¡s rebotes internos.
+Más rebotes internos.
 
 Menos foco del equipo.
 
@@ -58,7 +58,7 @@ Peor experiencia para quien escribe.
 
 ---
 
-## Por quÃ© continÃºa
+## Por qué continúa
 
 La mesa de ayuda recoge tickets.
 
@@ -66,29 +66,29 @@ Pero no resuelve sola el criterio operativo.
 
 Entonces alguien del equipo hace de filtro humano.
 
-Todo el dÃ­a.
+Todo el día.
 
 ---
 
-## Hay una salida mÃ¡s simple
+## Hay una salida más simple
 
 No hace falta cambiar tu help desk.
 
-Hace falta quitar la clasificaciÃ³n manual.
+Hace falta quitar la clasificación manual.
 
-Enrutamiento automÃ¡tico.
+Enrutamiento automático.
 
 Menos triage.
 
 Menos errores.
 
-MÃ¡s velocidad desde el primer minuto.
+Más velocidad desde el primer minuto.
 
 ---
 
 ## Sale de operaciones reales
 
-Esto nace de equipos que siguen reenviando tickets porque el flujo todavÃ­a depende de personas.
+Esto nace de equipos que siguen reenviando tickets porque el flujo todavía depende de personas.
 
 ---
 
@@ -101,7 +101,7 @@ Esto nace de equipos que siguen reenviando tickets porque el flujo todavÃ­a de
 
 ---
 
-Si no cambias el proceso, maÃ±ana volverÃ¡s a clasificar lo mismo.
+Si no cambias el proceso, mañana volverás a clasificar lo mismo.
 
 ---
 
@@ -109,10 +109,10 @@ Si no cambias el proceso, maÃ±ana volverÃ¡s a clasificar lo mismo.
 
 ---
 
-## TambiÃ©n puede interesarte
+## También puede interesarte
 
 [Automatizar el seguimiento de facturas](/es/seguimiento-facturas-clientes/)
 
-[Sincronizar la conciliaciÃ³n financiera](/es/sincronizacion-reconciliacion-financiera/)
+[Sincronizar la conciliación financiera](/es/sincronizacion-reconciliacion-financiera/)
 
 

@@ -1,6 +1,6 @@
 ﻿+++
-title = "SincronizaciÃ³n de reconciliaciÃ³n financiera"
-description = "Comparas cifras entre sistemas cada semana para cerrar finanzas? Sincroniza la conciliaciÃ³n y deja de revisar diferencias manualmente."
+title = "Sincronización de reconciliación financiera"
+description = "Comparas cifras entre sistemas cada semana para cerrar finanzas? Sincroniza la conciliación y deja de revisar diferencias manualmente."
 slug = "sincronizacion-reconciliacion-financiera"
 url = "/es/sincronizacion-reconciliacion-financiera/"
 keywords = ["sincronizacion reconciliacion financiera", "automatizar conciliacion financiera", "cuadrar sistemas financieros"]
@@ -8,7 +8,7 @@ keywords = ["sincronizacion reconciliacion financiera", "automatizar conciliacio
 
 # Tu equipo sigue cuadrando cifras entre sistemas cada semana?
 
-Entonces la conciliaciÃ³n todavÃ­a depende de trabajo manual.
+Entonces la conciliación todavía depende de trabajo manual.
 
 Exportas datos.
 
@@ -22,9 +22,9 @@ Y vuelves a hacerlo.
 
 ---
 
-Si el cierre financiero depende de revisar todo dos veces, el flujo estÃ¡ roto.
+Si el cierre financiero depende de revisar todo dos veces, el flujo está roto.
 
-<a class="button button-primary" href="#waitlist">Quiero sincronizar la conciliaciÃ³n</a>
+<a class="button button-primary" href="#waitlist">Quiero sincronizar la conciliación</a>
 
 ---
 
@@ -34,7 +34,7 @@ Un sistema dice una cosa.
 
 Otro sistema dice otra.
 
-TÃº haces de Ã¡rbitro.
+Tú haces de árbitro.
 
 Buscas diferencias.
 
@@ -46,47 +46,47 @@ Y siempre queda la duda de si falta algo.
 
 ## El coste real
 
-MÃ¡s horas de revisiÃ³n.
+Más horas de revisión.
 
-MÃ¡s presiÃ³n en cierre.
+Más presión en cierre.
 
-MÃ¡s riesgo de error.
+Más riesgo de error.
 
-MÃ¡s dependencia de personas concretas.
+Más dependencia de personas concretas.
 
 No escala.
 
 ---
 
-## Por quÃ© se mantiene
+## Por qué se mantiene
 
-Tus herramientas financieras guardan informaciÃ³n.
+Tus herramientas financieras guardan información.
 
 Pero no coordinan el proceso entre ellas.
 
-AsÃ­ que el equipo rellena ese hueco manualmente.
+Así que el equipo rellena ese hueco manualmente.
 
 Cada semana.
 
 ---
 
-## Una forma mÃ¡s sÃ³lida
+## Una forma más sólida
 
 No se trata de cambiar todo.
 
 Se trata de eliminar la parte repetitiva.
 
-SincronizaciÃ³n automÃ¡tica.
+Sincronización automática.
 
-Menos comparaciÃ³n manual.
+Menos comparación manual.
 
-MÃ¡s confianza en el dato.
+Más confianza en el dato.
 
 ---
 
 ## Basado en operaciones reales
 
-Esto sale de equipos financieros que todavÃ­a viven entre exportaciones, comprobaciones y correcciones.
+Esto sale de equipos financieros que todavía viven entre exportaciones, comprobaciones y correcciones.
 
 ---
 
@@ -99,11 +99,11 @@ Esto sale de equipos financieros que todavÃ­a viven entre exportaciones, compr
 
 ---
 
-Si no cambias el flujo, el prÃ³ximo cierre volverÃ¡ a pedir horas que no deberÃ­as gastar.
+Si no cambias el flujo, el próximo cierre volverá a pedir horas que no deberías gastar.
 
 ---
 
-<a class="button button-primary" href="#waitlist">Quiero una conciliaciÃ³n mÃ¡s limpia</a>
+<a class="button button-primary" href="#waitlist">Quiero una conciliación más limpia</a>
 
 ---
 
