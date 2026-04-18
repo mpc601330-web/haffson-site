@@ -5,7 +5,7 @@ description = "Find real problems from real signals and build what people actual
 
 # Most people build things nobody wants.
 
-That’s the problem.
+That's the problem.
 
 HAFFSON does the opposite.
 
@@ -21,15 +21,15 @@ They repeat the same issues.
 They describe broken workflows.
 They build workarounds.
 
-That’s not noise.
+That's not noise.
 
-That’s demand.
+That's demand.
 
 ---
 
 ## What you do here
 
-You don’t start with ideas.
+You don't start with ideas.
 
 You start with proof.
 
@@ -37,11 +37,11 @@ You start with proof.
 
 ## Start here
 
-👉 [See a real problem in action](/invoice-follow-up-automation/)
+[See a real problem in action](/invoice-follow-up-automation/)
 
 Finance teams are still chasing invoices manually every week.
 
-→ /data-reconciliation-copy-paste/
+[Fix data reconciliation workflow](/data-reconciliation-copy-paste/)
 
 Teams are still copying data between systems manually.
 

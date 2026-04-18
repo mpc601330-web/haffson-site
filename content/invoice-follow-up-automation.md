@@ -7,7 +7,7 @@ keywords = ["invoice follow up automation", "automate invoice reminders", "unpai
 
 # Stop chasing unpaid invoices manually.
 
-You’re doing work that should not exist.
+You're doing work that should not exist.
 
 Every week.
 copying reminders
@@ -28,7 +28,7 @@ If you're still doing this manually, fix it now.
 
 You open your inbox.
 
-You check who hasn’t paid.
+You check who hasn't paid.
 
 You send another reminder.
 
@@ -55,11 +55,11 @@ Repeating.
 
 ## A simpler way to handle it
 
-This doesn’t replace your accounting tool.
+This doesn't replace your accounting tool.
 
 It removes the manual part.
 
-That’s it.
+That's it.
 
 Automatic follow-ups.
 
@@ -104,4 +104,4 @@ And the next.
 
 If you're dealing with manual finance workflows, you may also be copying data between tools:
 
-→ /data-reconciliation-copy-paste/
+[Fix manual data reconciliation](/data-reconciliation-copy-paste/)

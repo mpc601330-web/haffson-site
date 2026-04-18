@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="google-site-verification" content="QBX9Zn1yb7OjtREjymOE8Z2ijMAudZbd-xR83AA7gv0" />
     <title>{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ .Params.description | default .Site.Params.site_tagline }}">
     {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
@@ -14,6 +13,7 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="stylesheet" href="/css/site.css">
+    <meta name="google-site-verification" content="QBX9Zn1yb7OjtREjymOE8Z2ijMAudZbd-xR83AA7gv0" />
   </head>
   <body>
     <header class="site-header">

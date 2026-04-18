@@ -7,7 +7,7 @@ keywords = ["data reconciliation automation", "copy paste workflow", "manual dat
 
 # Stop copying data between systems manually.
 
-You’re doing work that should not exist.
+You're doing work that should not exist.
 
 Copying records.
 Switching tabs.
@@ -17,7 +17,7 @@ Every time data needs to move.
 
 This is not a system.
 
-It’s a workaround.
+It's a workaround.
 
 ---
 
@@ -37,7 +37,7 @@ You copy and paste records.
 
 Something breaks.
 
-Numbers don’t match.
+Numbers don't match.
 
 You go back and fix it manually.
 
@@ -56,13 +56,13 @@ Manual reconciliation creates:
 
 It works.
 
-But it doesn’t scale.
+But it doesn't scale.
 
 ---
 
 ## Why this keeps happening
 
-Your tools don’t talk to each other.
+Your tools don't talk to each other.
 
 So people become the integration.
 
@@ -74,9 +74,9 @@ Again and again.
 
 ---
 
-## There’s a better way
+## There's a better way
 
-You don’t need to replace your tools.
+You don't need to replace your tools.
 
 You need to remove the manual step.
 
@@ -115,3 +115,11 @@ And the next.
 ---
 
 [ Automate this workflow ]
+
+---
+
+## Related problems
+
+You may also be dealing with:
+
+[Automate invoice follow-ups](/invoice-follow-up-automation/)
