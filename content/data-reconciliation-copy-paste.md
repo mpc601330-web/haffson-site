@@ -23,7 +23,7 @@ It's a workaround.
 
 If you're still copying data between tools, fix it now.
 
-<a href="/thanks/" class="cta-button">Automate this workflow</a>
+<a href="#waitlist" class="cta-button">Automate this workflow</a>
 
 ---
 
@@ -98,7 +98,7 @@ This comes from real teams dealing with broken reconciliation processes every we
 
 ## Get early access
 
-<form name="waitlist" method="POST" data-netlify="true">
+<form id="waitlist" name="waitlist" method="POST" data-netlify="true">
   <input type="hidden" name="form-name" value="waitlist" />
   <input type="email" name="email" placeholder="Enter your email" required />
   <button type="submit">Automate this</button>
@@ -114,7 +114,7 @@ And the next.
 
 ---
 
-<a href="/thanks/" class="cta-button">Automate this workflow</a>
+<a href="#waitlist" class="cta-button">Automate this workflow</a>
 
 ---
 
