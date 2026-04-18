@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ if hasPrefix .RelPermalink "/es/" }}es{{ else }}en{{ end }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,12 +15,13 @@
     <link rel="stylesheet" href="/css/site.css">
     <meta name="google-site-verification" content="QBX9Zn1yb7OjtREjymOE8Z2ijMAudZbd-xR83AA7gv0" />
   </head>
-  <body>
+  <body class="{{ if .Params.premium }}premium-page{{ end }}">
     <header class="site-header">
       <div class="site-header-inner">
         <a class="site-brand" href="/">{{ .Site.Params.site_name | default .Site.Title }}</a>
         <nav class="site-nav" aria-label="Primary">
           <a href="/">Home</a>
+          <a href="/es/seguimiento-facturas-clientes/">ES</a>
           <div class="dropdown">
             <button class="dropbtn" type="button">Problems &#9662;</button>
             <div class="dropdown-content">
@@ -41,6 +42,7 @@
           e.preventDefault();
 
           const email = form.querySelector(".email-input").value;
+          const source = form.dataset.source || window.location.pathname;
 
           try {
             await fetch("https://script.google.com/macros/s/AKfycbyjJ_n7xKZ3UFkfcM2raaMmjRNel6BA4k4mJgpuc3q_zTezDot0732q2MyUjGMTtOge7w/exec", {
@@ -48,7 +50,7 @@
               mode: "no-cors",
               body: JSON.stringify({
                 email: email,
-                source: window.location.pathname
+                source: source
               })
             });
           } catch (err) {

@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "HAFFSON"
 description = "Find real problems from real signals and build what people actually need."
 +++
@@ -55,6 +55,19 @@ Teams are still copying data between systems manually.
 
 ---
 
+## En espaÃ±ol
+
+[Automatiza el seguimiento de facturas](/es/seguimiento-facturas-clientes/)
+
+Cobrar no deberÃ­a depender de perseguir correos y hojas cada semana.
+
+[Automatiza la reconciliaciÃ³n de datos](/es/copia-pega-reconciliacion-datos/)
+
+Copiar y pegar datos entre herramientas sigue generando errores evitables.
+
+---
+
 No ideas.
 
 Just real problems.
+

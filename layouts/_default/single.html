@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="page-shell">
-  <section class="content-card">
+  <section class="{{ if .Params.premium }}premium-frame{{ else }}content-card{{ end }}">
     <article class="content prose">
       {{ .Content }}
     </article>
