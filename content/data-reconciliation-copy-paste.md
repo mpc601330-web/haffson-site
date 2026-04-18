@@ -98,9 +98,8 @@ This comes from real teams dealing with broken reconciliation processes every we
 
 ## Get early access
 
-<form id="waitlist" name="waitlist" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="waitlist" />
-  <input type="email" name="email" placeholder="Enter your email" required />
+<form id="waitlist" class="waitlist-form">
+  <input type="email" class="email-input" placeholder="Enter your email" required />
   <button type="submit">Automate this</button>
 </form>
 

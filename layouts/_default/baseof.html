@@ -35,13 +35,29 @@
       </div>
     </header>
     {{ block "main" . }}{{ end }}
-    <div hidden aria-hidden="true">
-      <form name="waitlist" method="POST" action="/thanks/" netlify data-netlify="true" netlify-honeypot="bot-field">
-        <input type="hidden" name="form-name" value="waitlist">
-        <input type="text" name="bot-field">
-        <input type="email" name="email">
-        <button type="submit">Submit</button>
-      </form>
-    </div>
+    <script>
+      document.querySelectorAll(".waitlist-form").forEach(form => {
+        form.addEventListener("submit", async function(e) {
+          e.preventDefault();
+
+          const email = form.querySelector(".email-input").value;
+
+          try {
+            await fetch("https://script.google.com/macros/s/AKfycbyjJ_n7xKZ3UFkfcM2raaMmjRNel6BA4k4mJgpuc3q_zTezDot0732q2MyUjGMTtOge7w/exec", {
+              method: "POST",
+              mode: "no-cors",
+              body: JSON.stringify({
+                email: email,
+                source: window.location.pathname
+              })
+            });
+          } catch (err) {
+            console.error("Lead capture failed", err);
+          }
+
+          window.location.href = "/thanks/";
+        });
+      });
+    </script>
   </body>
 </html>

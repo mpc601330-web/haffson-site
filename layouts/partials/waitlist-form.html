@@ -1,27 +1,4 @@
-<form class="waitlist-form" name="invoiceping-waitlist" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  <input type="hidden" name="form-name" value="invoiceping-waitlist">
-  <input type="hidden" name="product" value="InvoicePing">
-  <p class="hidden">
-    <label>Do not fill this out if you're human: <input name="bot-field"></label>
-  </p>
-  <label>
-    Work email
-    <input type="email" name="email" placeholder="finance@company.com" required>
-  </label>
-  <label>
-    Team size
-    <select name="team_size" required>
-      <option value="">Select one</option>
-      <option value="solo">Just me</option>
-      <option value="2-10">2-10 people</option>
-      <option value="11-50">11-50 people</option>
-      <option value="50+">50+ people</option>
-    </select>
-  </label>
-  <label>
-    Biggest pain today
-    <textarea name="pain" rows="4" placeholder="Examples: manual reminders, promise-to-pay tracking, reconciliation cleanup"></textarea>
-  </label>
-  <button class="button button-primary" type="submit">Join the Waitlist</button>
-  <p class="form-note">Netlify will capture submissions without a custom backend.</p>
+<form class="waitlist-form">
+  <input type="email" class="email-input" placeholder="Enter your email" required>
+  <button type="submit">Automate this</button>
 </form>

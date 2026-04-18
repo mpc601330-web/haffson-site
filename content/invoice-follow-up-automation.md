@@ -77,13 +77,9 @@ This comes from real teams doing this every week.
 
 ## Get early access
 
-<form id="waitlist" name="waitlist" method="POST" action="/thanks/" netlify data-netlify="true" netlify-honeypot="bot-field">
-  <input type="hidden" name="form-name" value="waitlist" />
-  <p class="hidden">
-    <label>Do not fill this out if you're human: <input name="bot-field" /></label>
-  </p>
-  <input type="email" name="email" placeholder="Enter your email" required />
-  <button type="submit">Automate my follow-ups</button>
+<form id="waitlist" class="waitlist-form">
+  <input type="email" class="email-input" placeholder="Enter your email" required />
+  <button type="submit">Automate this</button>
 </form>
 
 ---
