@@ -102,6 +102,10 @@ And the next.
 
 ## Related problems
 
-If you're dealing with manual finance workflows, you may also be copying data between tools:
+If you're dealing with manual finance and support workflows, you may also be dealing with:
 
 [Fix manual data reconciliation](/data-reconciliation-copy-paste/)
+
+[Sync finance reconciliation](/finance-reconciliation-sync/)
+
+[Route support tickets automatically](/support-ticket-routing/)

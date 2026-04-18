@@ -41,6 +41,14 @@ You start with proof.
 
 Finance teams are still chasing invoices manually every week.
 
+[Sync finance reconciliation](/finance-reconciliation-sync/)
+
+Finance teams are still matching records across systems manually.
+
+[Route support tickets automatically](/support-ticket-routing/)
+
+Support teams are still triaging and forwarding tickets by hand.
+
 [Fix data reconciliation workflow](/data-reconciliation-copy-paste/)
 
 Teams are still copying data between systems manually.
